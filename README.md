@@ -18,6 +18,7 @@ https://www.kau.se/en/education/programmes-and-courses/programmes/SGMKV-SGDM
 3. Into Tableau and filtered the different countries into 5 random.
 4. Created visualisations for location (Geo) and ug/m3 emissions. Created a persuasive infographic using data I have found related to the environment. 
 
+# Final visualisation (pictures)
 ## Infographic:
 ![Infographic](https://github.com/alfredsprid/infographic-pollution/assets/138588247/63609127-2118-4c79-b5fe-7eb186ac4a7f)
 
