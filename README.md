@@ -2,6 +2,7 @@
 This visualisation “proves” that more people living in a city don’t have to equal more air pollution.
 ## Tools
 Adobe Illustrator
+
 Tableau
 ## Relation:
 Made this infographic as one of my homework in a course.
