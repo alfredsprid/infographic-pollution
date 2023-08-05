@@ -20,3 +20,9 @@ https://www.kau.se/en/education/programmes-and-courses/programmes/SGMKV-SGDM
 
 ## Infographic:
 ![Infographic](https://github.com/alfredsprid/infographic-pollution/assets/138588247/63609127-2118-4c79-b5fe-7eb186ac4a7f)
+
+# Other Screenshots:
+## Tableau
+![Tableeau](https://github.com/alfredsprid/infographic-pollution/assets/138588247/efee17ef-7ff2-4e17-b0c6-cd90b5b90cda)
+![Tableeau](https://github.com/alfredsprid/infographic-pollution/assets/138588247/02203b2a-8c59-4c88-acad-e8a584807936)
+![Tableeau](https://github.com/alfredsprid/infographic-pollution/assets/138588247/73dc7af9-3986-4c07-9be1-6e77954b33b4)
